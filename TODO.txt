@@ -1,0 +1,7 @@
+chat:
+8. find a way to store old prompts, like chat gpt. 
+9. work on recent chats
+10.  store chats in db
+11. format chat response 
+12. add typing effect
+13. clear recent prmot from input field

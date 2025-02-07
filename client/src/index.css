@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 100%; /* Ensures full height */
+    width: 100%; /* Ensures full width */
+    overflow-x: hidden; /* Prevents horizontal scroll */
+}
